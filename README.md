@@ -28,4 +28,7 @@
   <h2>Skills . .  -----------------------------☆-----------------------------------></h2>
 </languages>  
 
+![skills 3](https://github.com/Naibitx/Naibitx/assets/169307311/ae12976d-60a6-4596-945d-a175f22ce9f1)
+
+
 

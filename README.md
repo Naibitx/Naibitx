@@ -7,7 +7,7 @@
 </top>
 
 <about>
-  <h2>About Me . . .--------------------------☆-----------------------------------></h2>
+  <h2>About Me . . .-------------------------☆-----------------------------------></h2>
   <p>
   Holis! My name is Naibys and I am a front-end web developer! I am persuing a BS in Computer Science with a concentration in Advanced Topics (leaning a little towards Software Engineering). When I am not            studying or working on projects/website commissions I love to play videogames, read, watch a show/youtube deep dives or just relax   with my cat and dog :> ⠀⠀⠀
   </p>  

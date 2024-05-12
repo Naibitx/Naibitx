@@ -32,9 +32,8 @@
 <footer> 
   <h1 align ="center"> ˚★Contact Me★˚ </h1>
   
-  <a href= "www.linkedin.com/in/naibys-alzugaray"><img src="https://github.com/Naibitx/Naibitx/assets/169307311/cc60a7a4-6b4d-4662-bd62-1326c85831a5" width="300"></a>
+  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/cc60a7a4-6b4d-4662-bd62-1326c85831a5" width="300" />
   <img src="https://github.com/Naibitx/Naibitx/assets/169307311/ae658460-d4ae-44b7-8196-89eb6f0f6fab" width="150" /> 
-  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/daca5475-ddca-4a1a-b619-d8a5cb326f05" width="170" />
   <img src="https://github.com/Naibitx/Naibitx/assets/169307311/bd5a4120-6106-4720-aa69-71e8ccec3b6b" width="220" />
   
 

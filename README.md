@@ -7,10 +7,10 @@
 </top>
 
 <about>
-  <h2>About Me ----------------------------☆-----------------------------------></h2>
+  <h2>About Me.----------------------------☆-----------------------------------></h2>
   <p>
-  Holis! My name is Naibys and I am a front-end web developer! I am persuing a BS in Computer Science with a concentration in Advanced Topics (leaning a little towards   Software Engineering). When I am not studying or working on projects/website commissions I love to play videogames, read, watch a show/youtube deep dives or just relax   with my cat and dog :> ⠀⠀⠀
-</p>  
+  Holis! My name is Naibys and I am a front-end web developer! I am persuing a BS in Computer Science with a concentration in Advanced Topics (leaning a little towards Software Engineering). When I am not            studying or working on projects/website commissions I love to play videogames, read, watch a show/youtube deep dives or just relax   with my cat and dog :> ⠀⠀⠀
+  </p>  
 </about>
 
 <projects>
@@ -22,5 +22,10 @@
   <p> &nbsp&nbsp &#9734; Its an online bookshelf in which users can store and search through their currently owned books </p>
   <h3 align = "left">Traveling Through The Génesis </h3>
   <p> &nbsp&nbsp &#9734; Its a 2D indie game in which the user will solve the mystery involving a charcater named Génesis </p>
-</projects>  
+</projects> 
+<br>
+<languages> 
+  <h2>Skills.--------------------------------☆-----------------------------------></h2>
+</languages>  
+
 

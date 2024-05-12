@@ -24,20 +24,22 @@
   <p> &nbsp&nbsp &#9734; Its a 2D indie game in which the user will solve the mystery involving a charcater named Génesis </p>
 </projects> 
 <br>
-<languages> 
+<skill> 
   <h2>Skills . .  -----------------------------☆-----------------------------------></h2>
-</languages>  
+</skill>  
 
 ![skills 3](https://github.com/Naibitx/Naibitx/assets/169307311/ae12976d-60a6-4596-945d-a175f22ce9f1)
+
 <footer> 
   <h1 align ="center"> ˚★Contact Me★˚ </h1>
-  
-  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/cc60a7a4-6b4d-4662-bd62-1326c85831a5" width="300" />
+  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/8a6e4397-cd99-41d2-8d1f-c0bd2d55a2f9" width="100" />
+  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/cc60a7a4-6b4d-4662-bd62-1326c85831a5" width="330" />
   <img src="https://github.com/Naibitx/Naibitx/assets/169307311/ae658460-d4ae-44b7-8196-89eb6f0f6fab" width="150" /> 
-  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/bd5a4120-6106-4720-aa69-71e8ccec3b6b" width="220" />
+  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/bd5a4120-6106-4720-aa69-71e8ccec3b6b" width="225" />
   
 
 </footer>
+
 
 
 

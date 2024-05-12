@@ -32,7 +32,7 @@
 
 <footer> 
   <h1 align ="center"> ˚★Contact Me★˚ </h1>
-  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/8a6e4397-cd99-41d2-8d1f-c0bd2d55a2f9" width="110" />
+  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/8a6e4397-cd99-41d2-8d1f-c0bd2d55a2f9" width="130" />
   <img src="https://github.com/Naibitx/Naibitx/assets/169307311/cc60a7a4-6b4d-4662-bd62-1326c85831a5" width="330" />
   <img src="https://github.com/Naibitx/Naibitx/assets/169307311/ae658460-d4ae-44b7-8196-89eb6f0f6fab" width="150" /> 
   <img src="https://github.com/Naibitx/Naibitx/assets/169307311/bd5a4120-6106-4720-aa69-71e8ccec3b6b" width="225" />

@@ -20,7 +20,7 @@
     <a href = "https://github.com/Cosmo517/LibraryExtended">Library Extended </a> - Python | JavaScript | HTML | CSS 
   </h3>
   <p> &nbsp&nbsp &#9734; Its an online bookshelf in which users can store and search through their current owned book </p>
-  <h3 align = "left">Traveling Through The Génesis </h3> -
+  <h3 align = "left">Traveling Through The Génesis </h3>
   <p> &nbsp&nbsp &#9734; Its a indie 2D game in which the user will solve the mistery involving a charcater named Génesis </p>
 </projects>  
 

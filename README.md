@@ -34,10 +34,10 @@
   <h1 align ="center"> ˚★Contact Me★˚ </h1>
 </footer>
 
-  ![skills_3 copy 5](https://github.com/Naibitx/Naibitx/assets/169307311/9cac5f70-3c13-4563-96f2-f3d0518c52fa)
-  [<img src="https://github.com/Naibitx/Naibitx/assets/169307311/cc60a7a4-6b4d-4662-bd62-1326c85831a5" width="330">](www.linkedin.com/in/naibys-alzugaray)
-  [<img src="https://github.com/Naibitx/Naibitx/assets/169307311/ae658460-d4ae-44b7-8196-89eb6f0f6fab" width="150" >](https://dev.to/naibitx_)
-  [<img src="https://github.com/Naibitx/Naibitx/assets/169307311/bd5a4120-6106-4720-aa69-71e8ccec3b6b" width="225" >](naibys.alzugarayofficial@gmail.com)
+![skills_3 copy 5](https://github.com/Naibitx/Naibitx/assets/169307311/c608bba8-84ea-439b-945b-816e2a179c2a)
+[<img src="https://github.com/Naibitx/Naibitx/assets/169307311/cc60a7a4-6b4d-4662-bd62-1326c85831a5" width="330">](https://www.linkedin.com/in/naibys-alzugaray)
+[<img src="https://github.com/Naibitx/Naibitx/assets/169307311/ae658460-d4ae-44b7-8196-89eb6f0f6fab" width="150" >](https://dev.to/naibitx_)
+[<img src="https://github.com/Naibitx/Naibitx/assets/169307311/bd5a4120-6106-4720-aa69-71e8ccec3b6b" width="225" >](mailto:naibys.alzugarayofficial@gmail.com)
 
 
 

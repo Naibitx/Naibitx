@@ -14,7 +14,7 @@
 </about>
 
 <projects>
-  <h2>Working on . . .------------------------☆-----------------------------------></h2>
+  <h2>Working on . . .-----------------------☆-----------------------------------></h2>
   <img align="right" src= "https://github.com/Naibitx/Naibitx/assets/169307311/67af7df4-314a-4eaa-b750-0321e4d5132a">
   <h3 align = "left">
     <a href = "https://github.com/Cosmo517/LibraryExtended">Library Extended </a> - Python | JavaScript | HTML | CSS 
@@ -25,7 +25,7 @@
 </projects> 
 <br>
 <languages> 
-  <h2>Skills . . .------------------------------☆-----------------------------------></h2>
+  <h2>Skills . . .-----------------------------☆-----------------------------------></h2>
 </languages>  
 
 

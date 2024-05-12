@@ -21,6 +21,6 @@
   </h3>
   <p> &nbsp&nbsp &#9734; Its an online bookshelf in which users can store and search through their currently owned books </p>
   <h3 align = "left">Traveling Through The Génesis </h3>
-  <p> &nbsp&nbsp &#9734; Its a indie 2D game in which the user will solve the mystery involving a charcater named Génesis </p>
+  <p> &nbsp&nbsp &#9734; Its a 2D indie game in which the user will solve the mystery involving a charcater named Génesis </p>
 </projects>  
 

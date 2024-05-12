@@ -9,7 +9,7 @@
 <about>
   <h2>About Me . . -------------------------☆-----------------------------------></h2>
   <p>
-  Holis! My name is Naibys and I am a front-end web developer! I am persuing a BS in Computer Science with a concentration in Advanced Topics (leaning a little towards Software Engineering). When I am not            studying or working on projects/website commissions I love to play videogames, read, watch a show/youtube deep dives or just relax   with my cat and dog :> ⠀⠀⠀
+  Holis! My name is Naibys and I am a front-end web developer! I am pursuing a BS in Computer Science with a concentration in Advanced Topics (leaning a little towards Software Engineering). When I am not            studying or working on projects/website commissions I love to play videogames, read, watch a show/youtube deep dives or just relax   with my cat and dog :> ⠀⠀⠀
   </p>  
 </about>
 
@@ -29,6 +29,18 @@
 </languages>  
 
 ![skills 3](https://github.com/Naibitx/Naibitx/assets/169307311/ae12976d-60a6-4596-945d-a175f22ce9f1)
+<footer> 
+  <h1 align ="center"> ˚★Contact Me★˚ </h1>
+  
+  <a href= "www.linkedin.com/in/naibys-alzugaray"><img src="https://github.com/Naibitx/Naibitx/assets/169307311/cc60a7a4-6b4d-4662-bd62-1326c85831a5" width="300"></a>
+  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/ae658460-d4ae-44b7-8196-89eb6f0f6fab" width="150" /> 
+  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/daca5475-ddca-4a1a-b619-d8a5cb326f05" width="170" />
+  <img src="https://github.com/Naibitx/Naibitx/assets/169307311/bd5a4120-6106-4720-aa69-71e8ccec3b6b" width="220" />
+  
+
+</footer>
+
+
 
 
 

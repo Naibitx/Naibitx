@@ -5,14 +5,14 @@
 </top>
 
 <about>
-  <h2>About Me . . -------------------------☆-----------------------------------></h2>
+  <h2>About Me . . -------------------------☆--------------------------------></h2>
   <p>
   Holis! My name is Naibys and I am a front-end web developer! I am pursuing a BS in Computer Science with a concentration in Advanced Topics (leaning a little towards Software Engineering). When I am not            studying or working on projects/website commissions I love to play videogames, read, watch a show/youtube deep dives or just relax   with my cat and dog :> ⠀⠀⠀
   </p>  
 </about>
 
 <projects>
-  <h2>Working on . . .-----------------------☆-----------------------------------></h2>
+  <h2>Working on . . .-----------------------☆--------------------------------></h2>
   <img align="right" src= "https://github.com/Naibitx/Naibitx/assets/169307311/67af7df4-314a-4eaa-b750-0321e4d5132a">
   <h3 align = "left">
     <a href = "https://github.com/Cosmo517/LibraryExtended">Library Extended </a> - Python | JavaScript | HTML | CSS 
@@ -23,7 +23,7 @@
 </projects> 
 <br>
 <skill> 
-  <h2>Skills . .  ------------------------------☆-----------------------------------></h2>
+  <h2>Skills . .  ------------------------------☆--------------------------------></h2>
 </skill>  
 
 <footer> 

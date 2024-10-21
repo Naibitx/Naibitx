@@ -1,5 +1,3 @@
-![THIS_IS_NAIBITX__1_-ai-brush-removebg-nfpsoyz3](https://github.com/Naibitx/Naibitx/assets/169307311/7adbc5b3-b682-4fd0-a219-ab3823a6fa19)
-
 
 <top> 
   <h1 align ="center"> ˚₊‧꒰ა ☆｡𖦹°‧★Hello Underworld★‧°𖦹｡☆ ໒꒱ ‧₊˚ </h1>
@@ -27,8 +25,6 @@
 <skill> 
   <h2>Skills . .  ------------------------------☆-----------------------------------></h2>
 </skill>  
-
-![skills 3](https://github.com/Naibitx/Naibitx/assets/169307311/ae12976d-60a6-4596-945d-a175f22ce9f1)
 
 <footer> 
   <h1 align ="center"> ˚★Contact Me★˚ </h1>

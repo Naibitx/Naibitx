@@ -25,20 +25,6 @@
   </h3>
    <p> &nbsp&nbsp &#9734; Making overlay for the FLPoly Overwatch Esports twitch channel</p>
 </projects> 
-<br>
-<skill> 
-  <h2>Skills . .  ------------------------------☆--------------------------------></h2>
-</skill>  
-
-<footer> 
-  <h1 align ="center"> ˚★Contact Me★˚ </h1>
-</footer>
-
-![output-onlinegiftools (6)](https://github.com/Naibitx/Naibitx/assets/169307311/fded7fa9-8f11-4a2d-89be-ccb1cd30bb75)
-[<img src="https://github.com/Naibitx/Naibitx/assets/169307311/04a6eef8-785e-4939-9621-fd916e086e5a" width="274">](https://www.linkedin.com/in/naibys-alzugaray)
-[<img src="https://github.com/Naibitx/Naibitx/assets/169307311/ae658460-d4ae-44b7-8196-89eb6f0f6fab" width="150" >](https://dev.to/naibitx_)
-[<img src="https://github.com/Naibitx/Naibitx/assets/169307311/bd5a4120-6106-4720-aa69-71e8ccec3b6b" width="225" >](mailto:naibys.alzugarayofficial@gmail.com)
-
 
 
 

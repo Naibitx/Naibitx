@@ -1,7 +1,7 @@
 
 <top> 
   <h1 align ="center"> ˚₊‧꒰ა ☆｡𖦹°‧★Hello★‧°𖦹｡☆ ໒꒱ ‧₊˚ </h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                          font=Fira+Code&pause=1000&color=DFF1F8&center=true&random=false&width=1150&lines=I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+" alt="Typing SVG"/></a>⠀⠀⠀
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII" alt="Typing SVG" /></a>⠀⠀
 </top>
 <about>
   <h2>About Me . . -------------------------☆--------------------------------></h2>
@@ -25,7 +25,7 @@
    <p> &nbsp&nbsp &#9734; Making overlay for the FLPoly Overwatch Esports twitch channel</p>
 </projects> 
 <footer>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                          font=Fira+Code&pause=1000&color=DFF1F8&center=true&random=false&width=1150&lines=I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+I+" alt="Typing SVG"/></a>⠀⠀⠀
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII" alt="Typing SVG" /></a>⠀⠀⠀
 </footer>
 
 
